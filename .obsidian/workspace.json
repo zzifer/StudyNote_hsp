@@ -1,0 +1,161 @@
+{
+  "main": {
+    "id": "8b9a46fc974ffe53",
+    "type": "split",
+    "children": [
+      {
+        "id": "2dfbc97cebdd961d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d4278a8d49c64808",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2021韩顺平 一周学会Linux/2021韩顺平 一周学会Linux.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "66c4d46e4b6720ac",
+    "type": "split",
+    "children": [
+      {
+        "id": "6a60259616dddfc7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e978e3bf052fef67",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "83ea5a5ab9821117",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "371e08a3a3d7ece8",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "050162cde8db5725",
+    "type": "split",
+    "children": [
+      {
+        "id": "0aa8543d78dfb8fe",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8ca7c6fee3e3b7a9",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "2021韩顺平 一周学会Linux/2021韩顺平 一周学会Linux.md",
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "246db138a646a6be",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "2021韩顺平 一周学会Linux/2021韩顺平 一周学会Linux.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "4d88410ade3677f7",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "e0ca1b5fecd0f474",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "2021韩顺平 一周学会Linux/2021韩顺平 一周学会Linux.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 259.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "obsidian-regex-pipeline:Regex Rulesets": false
+    }
+  },
+  "active": "d4278a8d49c64808",
+  "lastOpenFiles": [
+    "[.md",
+    "2021韩顺平 一周学会Linux/2021韩顺平 一周学会Linux.md",
+    "2021韩顺平 一周学会Linux/测试.md",
+    "attachments/Pasted image 20230210141628.png.md",
+    "attachments/Pasted image 20230210140850.png.md",
+    "2021韩顺平 一周学会Linux/attachments/Pasted image 20230210141244.png",
+    "2021韩顺平 一周学会Linux/attachments/Pasted image 20230210141218.png",
+    "2021韩顺平 一周学会Linux/attachments/Pasted image 20230210140850.png"
+  ]
+}
