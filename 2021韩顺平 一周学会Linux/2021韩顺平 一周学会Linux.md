@@ -35,7 +35,19 @@ userdel -r jack # 移除jack用户，同时在/home目录下会移除jack目录
 - /var [常用]：这个目录中存放着不断扩充着的东西，习惯将经常被修改的目录放在该目录下。包括各种日志文件
 - /selinux [security-enhanced linux]: SELinux是一种安全子系统，它能控制程序只访问呢特定文件，有三种工作模式，可自行设置
 
-# 06 Vi和Vim编辑器
+# 05 远程登录到Linux服务器 14-15
+>Xshell是远程登录到Linux操作系统的软件
+>Xftp是用来传输文件的
+>xshell7和Xftp的下载地址：[https://www.xshell.com/zh/free-for-home-school/](https://www.xshell.com/zh/free-for-home-school/)
+
+>ifconfig报错，输入sudo apt install net-tools安装net-tools工具
+
+>xshell连接失败
+>法一：可能是ssh服务没开，在虚拟机终端输入service ssh start，也可能是Linux没装ssh，在Linux终端输入 sudo apt-get install openssh-server
+
+
+
+# 06 Vi和Vim编辑器16-18
 ## vi和vim常用的三种模式
 >正常模式
 > 以vim打开一个档案就直接进入一般模式(默认模式)。在这个模式中，你可以使用[上下左右]按键来移动光标，你可以使用[删除字符]或[删除整行]来处理档案内容，也可以使用[复制、粘贴]来处理你的文件数据
